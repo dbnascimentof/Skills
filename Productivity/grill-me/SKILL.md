@@ -1,6 +1,6 @@
 ---
 name: grill-me
-description: Grill the user relentlessly about a plan, decision, or idea BEFORE building anything. Use this skill whenever the user asks Cursor to build, create, make, code, design, draft, or generate anything non-trivial — an app, website, script, tool, document, presentation, campaign, plan, or system — even if the request looks detailed enough to start immediately. Especially trigger on vague one-line build requests like "make me a dashboard" or "build an app for my gym". Do NOT use for pure questions, explanations, debugging existing code, tiny edits, or reformatting.
+description: Grill the user relentlessly until you reach a shared understanding about a plan, decision, or idea BEFORE building anything. Use this skill every time the user asks to build, create, make, code, design, draft, or generate anything non-trivial — an app, website, script, tool, document, presentation, campaign, plan, or system — even if the request looks detailed enough to start immediately. Especially trigger on vague one-line build requests like "make me a dashboard" or "build an app for my gym". Do NOT use for pure questions, explanations, debugging existing code, tiny edits, or reformatting.
 ---
 
 # Grill Me
